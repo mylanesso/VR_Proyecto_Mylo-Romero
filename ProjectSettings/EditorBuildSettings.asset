@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LOBBY.unity
+    guid: 7d7b8280309501e41aa47c2e1e380e5b
+  - enabled: 1
+    path: Assets/Scenes/GAME.unity
+    guid: 00e61bc1d161c234bb4d04ad9900081c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5dc448ea09218b443b7d258b9b50f144, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.polyspatial.xr.xr_settings: {fileID: 11400000, guid: 81545f15194edc341ad9f58c04a26e7f, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 28038e1fceb9be04e92e3bcfc00dc68a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 509f247a89faab647b9e52e7a24cdad6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ef7c6b0413af3094b9f6595da78b9534, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 6b7e042c96735bb4d8a6579045391df0, type: 2}
+  m_UseUCBPForAssetBundles: 0
